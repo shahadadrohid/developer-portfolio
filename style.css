@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.first-section{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.f-section-half{
+    width: 50%;
+    margin: 20px;
+}
+section img{
+    width: 82%;
+}
+#my-name{
+    color: rgb(143, 81, 0);
+}
