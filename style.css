@@ -9,11 +9,20 @@ body{
 }
 .f-section-half{
     width: 50%;
-    margin: 20px;
+}
+.portfolio-details{
+    margin: 100px;
+    text-align: justify;
+}
+.name1{
+    font-size: 40px;
+    font-weight: 500px;
+}
+#my-name{
+    color: rgb(2, 81, 172);
 }
 section img{
     width: 82%;
+    margin-left: 20px;
 }
-#my-name{
-    color: rgb(143, 81, 0);
-}
+
