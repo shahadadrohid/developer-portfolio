@@ -39,3 +39,42 @@ section img{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-area{
+    margin-top: 100px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-flex{
+    display: flex;
+    margin-top: 50px;
+}
+.experience-half{ 
+    text-align: justify;
+}
+.experience-half1{
+    margin-left: 70px;
+    margin-right: 70px;
+    border-right: 8px solid;
+    box-shadow: 5px 5px 12px 1px gray;
+    border-image: linear-gradient(#eb3349, #f45c43);
+    border-image-slice: 4;
+    width: 50%;
+    padding: 20px;
+    border-radius: 20px;
+}
+.experience-half2{
+    margin-left: 70px;
+    margin-right: 70px;
+    border-right: 8px solid;
+    box-shadow: 5px 5px 12px 1px gray;
+    border-image: linear-gradient(#eb3349, #e65f4b);
+    border-image-slice: 4;
+    width: 50%;
+    padding: 20px;
+    border-radius: 20px;
+}
+.footer{
+    margin-top: 100px;
+    text-align: center;
+}
