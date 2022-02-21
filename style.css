@@ -25,4 +25,17 @@ section img{
     width: 82%;
     margin-left: 20px;
 }
-
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(#de6262, #ffb88c);
+    border-radius: 8px;
+    padding: 10px 20px;
+    color: white;
+}
+.second-section{
+    display: flex;
+    margin-top: 70px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
